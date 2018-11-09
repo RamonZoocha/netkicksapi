@@ -1,0 +1,8 @@
+{
+    "require": {
+        "crodas/Haanga": "^1.0",
+        "catfan/Medoo": "^1.6",
+        "phpmailer/phpmailer": "^6.0",
+        "klein/klein": "^2.1"
+    }
+}
